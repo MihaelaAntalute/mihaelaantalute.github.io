@@ -340,7 +340,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: antalutemihaela32a@gmail.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
@@ -356,10 +356,8 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
+      github: https://github.com/MihaelaAntalute
+      linkedin: https://www.linkedin.com/in/mihaela-antalute-4248b7263/
       facebook: https://facebook.com
 
   # List pages like blogs and posts
