@@ -185,6 +185,17 @@ params:
         
         date: "2007 - 2011"
         GPA: "3.8 out of 5.0"
+         
+    enable: true
+    # title: "Custom Name"
+    index: false
+    items:
+      - title: "Trainee"
+        school:
+          name: "Just code it"
+        
+        date: "2022 - 2023"
+        GPA: "3.8 out of 5.0"
         
   # Achievements
   achievements:
