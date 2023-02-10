@@ -172,7 +172,7 @@ params:
           url: "https://github.com/MihaelaAntalute"
         content: "I am currently working on the Kids planner project. It will be used to help parents manage their children's activities"
 
-     
+   
   # Education
   education:
     enable: true
