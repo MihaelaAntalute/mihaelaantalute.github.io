@@ -120,7 +120,7 @@ params:
     title: "Mihaela."
     subtitle: "I'm a junior software developer"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/eu.jpg
+    image: /desktop/images/eu.jpg
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
@@ -142,7 +142,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/POZA MEA.jpg"
+    image: "/desktop/images/POZA MEA.jpg"
     content: |-
       I am a junior software developer with a passion for web development. I started a programming course and after 8 months, I found myself with a lot of things on which I learned. I notice how technology is very present everywhere, and I think that by continuing to develop as a programmer, I will be able to bring a lot of value.
       The project I am working on is dedicated to children and parents. An application that helps parents to manage both the control of homework, but also to evaluate the behavior of the child in the activities in which he participates.
